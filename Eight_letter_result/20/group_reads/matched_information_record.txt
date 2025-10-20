@@ -1,0 +1,5 @@
+allreads 1931
+match 1814
+unmatch 37
+percentage 0.019161
+dropout 0
