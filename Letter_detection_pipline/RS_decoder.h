@@ -12,7 +12,6 @@
 #include <float.h>
 #include <limits.h>
 
-// 常量定义
 #define MAX_RANDOM LONG_MAX
 #define ROWS 126
 #define COLS 60
