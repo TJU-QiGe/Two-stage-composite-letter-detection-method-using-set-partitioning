@@ -478,6 +478,22 @@ int main(int args, char** argv)
     return 0;
 }
 
+* NOTE:    
+*          The authors are not responsible for any malfunctioning of
+*          this program, nor for any damage caused by it. Please include the
+*          original program along with these comments in any redistribution.
+*
+* Portions of this program are from a Reed-Solomon encoder/decoder
+* in C, written by Simon Rockliff (simon@augean.ua.oz.au) on 21/9/89.
+*
+* COPYRIGHT NOTICE: This computer program is free for non-commercial purposes.
+* You may implement this program for any non-commercial application. You may 
+* also implement this program for commercial purposes, provided that you
+* obtain my written permission. Any modification of this program is covered
+* by this copyright.
+*
+* Copyright (c) 1995.  Robert Morelos-Zaragoza and Hari Thirumoorthy.
+*                      All rights reserved.
 // Reed-Solomon related function implementations
 void read_p(void)
 {
